@@ -1,0 +1,22 @@
+{
+  "name": "sticky",
+  "version": "1.0.0",
+  "description": "Elements stick to the top of the viewport when the user scrolls down.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyraisin/sticky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailyraisin/sticky/issues"
+  },
+  "homepage": "https://github.com/dailyraisin/sticky#readme"
+}
